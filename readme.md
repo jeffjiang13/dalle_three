@@ -1,7 +1,7 @@
   <div align="center">
 
  <br />
-  <img src="/threejs.png" width='400' alt="logo" />
+  <img src="public/threejs.png" width='400' alt="logo" />
 
   # Amazon 2.0 with NEXT.JS!
 
@@ -21,7 +21,6 @@
 
 <a href="https://jj-threeai.netlify.app//" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 # Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners
-![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
 
 ## Introduction
 
