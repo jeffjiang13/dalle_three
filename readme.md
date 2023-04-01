@@ -1,7 +1,7 @@
   <div align="center">
 
  <br />
-  <img src="threejs" width='400' alt="logo" />
+  <img src="/threejs" width='400' alt="logo" />
 
   # Amazon 2.0 with NEXT.JS!
 
