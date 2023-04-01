@@ -1,7 +1,7 @@
   <div align="center">
 
  <br />
-  <img src="/client/public/threejs.png" width='400' alt="logo" />
+  <img src="/client/public/three.png" width='300' alt="logo" />
 
   # OpenAI with Three.js!
 
@@ -20,7 +20,6 @@
 
 
 <a href="https://jj-threeai.netlify.app//" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-# Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners
 
 ## Introduction
 
