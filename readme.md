@@ -1,7 +1,7 @@
   <div align="center">
 
  <br />
-  <img src="/client/public/three.png" width='300' alt="logo" />
+  <img src="/client/public/shirt.png" width='300' alt="logo" />
 
   # OpenAI with Three.js!
 
