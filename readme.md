@@ -10,7 +10,7 @@
 
   <br />
 <h3>
-    <a href="https://jj-threeai.netlify.app/">View Demo</a>
+    <a href="https://jj-dalle-three.vercel.app/">View Demo</a>
 </h3>
 </div>
 
@@ -19,7 +19,7 @@
  <br />
 
 
-<a href="https://jj-threeai.netlify.app//" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://jj-dalle-three.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 
 ## Introduction
 
